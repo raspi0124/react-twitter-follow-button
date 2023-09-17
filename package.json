@@ -24,8 +24,8 @@
   "author": "Mkhitar",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^15.3.0 || ^16",
-    "react-dom": "^15.3.0 || ^16"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
